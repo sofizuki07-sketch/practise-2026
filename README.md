@@ -379,9 +379,9 @@ DeepSeek удобен для интеграций, потому что его AP
 
 Однако при попытке зайти в личный кабинет разработчика на [developers.sber.ru](https://developers.sber.ru) возникла проблема: страница постоянно показывает сообщение о технических работах. Это наблюдалось как с включённым VPN, так и без него, в том числе при использовании российского IP-адреса.
 
-<img src="img/screen_02_gigachat_error.png" width="50%" alt="Ошибка GigaChat">
+<img src="img/screen_02_gigachat_error.png" width="70%" alt="Ошибка GigaChat">
 
-<img src="img/screen_03_gigachat_error.png" width="50%" alt="Ошибка GigaChat">
+<img src="img/screen_03_gigachat_error.png" width="70%" alt="Ошибка GigaChat">
 
 Таким образом, получить доступ к GigaChat API и создать ключ не удалось. Реализация этого варианта на данный момент невозможна.
 
